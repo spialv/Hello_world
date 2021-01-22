@@ -1,4 +1,4 @@
 # Hello_world
 My first repository
 
-Is this master branch, or what?
+Now we moved to readme-edit branch
